@@ -7,11 +7,18 @@
         <loc>https://ahSeal.github.io/blog/</loc>
     </url>
     <url>
+        <loc>https://ahSeal.github.io/blog/linux-on-redmi2/</loc>
+        <lastmod>2023-03-01</lastmod>
+    </url>
+    <url>
         <loc>https://ahSeal.github.io/blog/scoop/</loc>
         <lastmod>2023-05-11</lastmod>
     </url>
     <url>
         <loc>https://ahSeal.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/categories/linux/</loc>
     </url>
     <url>
         <loc>https://ahSeal.github.io/categories/windows/</loc>
@@ -21,6 +28,12 @@
     </url>
     <url>
         <loc>https://ahSeal.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/tags/linux/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/tags/redmi/</loc>
     </url>
     <url>
         <loc>https://ahSeal.github.io/tags/scoop/</loc>
