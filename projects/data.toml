@@ -1,0 +1,6 @@
+[[project]]
+name = "kvsdb"
+desc = "基于 tokio 实现的简单的键值数据库"
+links = [
+    {name = "GitHub", url = "https://github.com/ahSeal/kvsdb"},
+]
