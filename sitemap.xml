@@ -7,12 +7,25 @@
         <loc>https://ahSeal.github.io/blog/</loc>
     </url>
     <url>
+        <loc>https://ahSeal.github.io/blog/scoop/</loc>
+        <lastmod>2023-05-11</lastmod>
+    </url>
+    <url>
         <loc>https://ahSeal.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/categories/windows/</loc>
     </url>
     <url>
         <loc>https://ahSeal.github.io/projects/</loc>
     </url>
     <url>
         <loc>https://ahSeal.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/tags/scoop/</loc>
+    </url>
+    <url>
+        <loc>https://ahSeal.github.io/tags/windows/</loc>
     </url>
 </urlset>
